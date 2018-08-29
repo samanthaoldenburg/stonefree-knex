@@ -1,0 +1,13 @@
+{
+  "name": "stonefree-knex",
+  "version": "0.1.0",
+  "description": "Perfect historical bookkeeping of a table by decoupling a table from its rows.",
+  "main": "index.ts",
+  "repository": "git@github.com:samanthaoldenburg/stonefree-knex.git",
+  "author": "Samantha Oldenburg <samantha.oldenburg@avant.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "knex": "^0.15.2"
+  }
+}
